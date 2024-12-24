@@ -1,0 +1,28 @@
+body{
+  background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+}
+
+main .box_color{
+    background-color: rgb(222, 184, 135);
+    width: 500px;
+    height: 720px;
+    padding-left: 20px;
+    margin-left: 35%;
+    padding-top: 20px;
+}
+
+main .box_color h1{
+    font-family: Impact,sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    padding-left: 135px;
+}
+
+main .box_color .heading{
+    font-family: Impact,sans-serif;
+    padding-left: 210px;
+}
+
+main .box_color .red{
+    color: #A52A2A;
+}
